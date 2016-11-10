@@ -1,14 +1,18 @@
-.bgimage {
+bgimage {
   background-image:url("images/waffle.jpg");
   background-position: center center;
   background-size:auto;
   height:400px;
 }
-.logo{
+logo {
   padding-top: 20px;
   background-color: black;
-color: white;
+  color: white;
 }
-.section{
+section {
   display:inline;
+}
+img.submit {
+  margin: 50px;
+  padding-bottom: 50px;
 }
