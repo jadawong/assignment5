@@ -1,6 +1,7 @@
-h4{
-  font: serif;
-}
+h4 {
+   font-family: sans-serif;
+   color: grey;}
+
 img.submit {
   padding-bottom: 500px;
 }
